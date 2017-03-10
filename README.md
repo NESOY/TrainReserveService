@@ -1,6 +1,6 @@
 # 2014-2 Semester Software Global Project
 
-## Project Team Name
+## Team Name
 - 잘할수있조
 
 ## Project Name
